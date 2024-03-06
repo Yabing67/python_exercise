@@ -1,2 +1,2 @@
 # python_exercise
-script of solution for exercises on PythonTip website
+python daily exercises on multiple websites and interviews
