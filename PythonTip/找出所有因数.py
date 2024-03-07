@@ -11,6 +11,7 @@ def find_factors(number):
             if number // i != i:
                 factors.append(number // i)
         i += 1
+    factors.append(number)
     # 对因数列表进行排序并返回
     return sorted(factors)
 
